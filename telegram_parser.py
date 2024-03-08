@@ -5,8 +5,9 @@ from telethon import TelegramClient, events
 def telegram_parser(send_message_func=None, loop=None):
 
     # Параметры из my.telegram.org
-    api_id = '15622655'
-    api_hash = 'b3f14f89453846d36a7f72ecabd1cf9b'
+    #Я сначла случайно свои слил((
+    api_id = 'your_api_id by kolya'
+    api_hash = 'your_api id by kolya'
 
     # Канал источник новостей @prime1
     channel_source = 'https://t.me/prime1'
